@@ -67,3 +67,4 @@ plt.style.use('classic')  #  'seaborn-whitegrid' 'seaborn-white' 'seaborn-poster
 #sometimes have to install library which you get from https://pypi.org/
 #!pip install geopandas
 dat=pd.read_csv(https://docs.google.com/spreadsheets/d/1V9cMDdPdcf19ahKqUoT2uxJxsXas-qGYLSBD3QG_rL8/edit?gid=169939752#gid=169939752)
+dat.columns #list var names
